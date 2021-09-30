@@ -43,3 +43,15 @@ Returns the linear combination of the indices in which the values satisfying the
 <br>
 <br>
  The answer would be the superposition of the states |01> and |11> or 1/sqrt(2) * (|01> + |11>)
+ 
+ 
+ # Solution
+ The present Task, was made with the following implementations:
+ 
+ ## Superposition
+ 
+ ## QRam
+ 
+ ## Oracle
+ 
+ ## Grover
