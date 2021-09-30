@@ -58,4 +58,4 @@ Returns the linear combination of the indices in which the values satisfying the
  The Oracle was implemented as a part of Grover algorithm to add a negative phase to the solution states. 
  ## Grover
 Gorver algorithm was implemented to apply the oracle reflection; In order to complete the circuit we need to implement the additional reflection
- 
+ https://arxiv.org/abs/quant-ph/9605043 https://arxiv.org/abs/1703.10535
