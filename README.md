@@ -49,9 +49,11 @@ Returns the linear combination of the indices in which the values satisfying the
  The present Task, was made with the following implementations:
  
  ## Superposition
- 
+ It deals with the superposition property in quantum computing, in order to store the numbers of the vectors.
  ## QRam
- 
+ QRam was implemented in order to storage one number from the vector given in a posiion (memory cell adress).
+ <br>
+ https://arxiv.org/pdf/0708.1879.pdf, https://github.com/qsharp-community/qram/blob/master/docs/primer.pdf)
  ## Oracle
  
  ## Grover
