@@ -55,5 +55,7 @@ Returns the linear combination of the indices in which the values satisfying the
  <br>
  https://arxiv.org/pdf/0708.1879.pdf, https://github.com/qsharp-community/qram/blob/master/docs/primer.pdf)
  ## Oracle
- 
+ The Oracle was implemented as a part of Grover algorithm to add a negative phase to the solution states. 
  ## Grover
+Gorver algorithm was implemented to apply the oracle reflection; In order to complete the circuit we need to implement the additional reflection
+ 
