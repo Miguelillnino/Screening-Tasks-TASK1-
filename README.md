@@ -43,7 +43,12 @@ Returns the linear combination of the indices in which the values satisfying the
 <br>
 <br>
  The answer would be the superposition of the states |01> and |11> or 1/sqrt(2) * (|01> + |11>)
- 
+<br>
+<br> 
+ Bonus
+<br>
+<br>
+Design a general circuit that accepts vectors with random values of size 2n with m bits in length for each element and finds the state(s) indicated above from an oracle.
  
  # Solution
  The present Task, was made with the following implementations:
