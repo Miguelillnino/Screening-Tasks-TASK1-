@@ -31,14 +31,20 @@ Example 1
 <br>
 Consider the vector [1,5,4,2]
 <br>
-Pass the integer values to binary numbers that is [001,101,100,010] Identifies which values whose binary representation is such that two adjacent bits are different, we can see that are 2 101 and 010, [001,101,100,010].
+Pass the integer values to binary numbers that is [001,101,100,010]
+<br>
+Identifies which values whose binary representation is such that two adjacent bits are different, we can see that are 2 101 and 010, [001,101,100,010].
 Returns the linear combination of the indices in which the values satisfying the criterion are found.
+<br>
 Indices:
    0     1      2  	3
    |       |      |      |
 [001,101,100,010]
+<br>
 Indices are converted to binary states
+<br>
 |00> |01> |10> |11>
 |         |	      | 	 |
 [001,101,100,010]
+<br>
  The answer would be the superposition of the states |01> and |11> or 1/sqrt(2) * (|01> + |11>)
