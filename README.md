@@ -42,18 +42,4 @@ Identifies which values whose binary representation is such that two adjacent bi
 Returns the linear combination of the indices in which the values satisfying the criterion are found.
 <br>
 <br>
-Indices:
-   0     1      2  	3
-   |       |      |      |
-[001,101,100,010]
-<br>
-<br>
-Indices are converted to binary states
-<br>
-<br>
-|00> |01> |10> |11>
-|         |	      | 	 |
-[001,101,100,010]
-<br>
-<br>
  The answer would be the superposition of the states |01> and |11> or 1/sqrt(2) * (|01> + |11>)
